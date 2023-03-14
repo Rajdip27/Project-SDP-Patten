@@ -18,13 +18,7 @@ namespace Tactsoft.Service.DbDependencies
 
 
         #region Properties
-        public DbSet<Country> Countries { get; set; }
-        public DbSet<State> States { get; set; }
-        public DbSet<City> Cities { get; set; }
-        public DbSet<Employee> Employees { get; set; }
-        public DbSet<Student> Students { get; set; }
-        public DbSet<Department> Departments { get; set; }
-
+        
 
         #endregion
 

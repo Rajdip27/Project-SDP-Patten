@@ -26,3 +26,17 @@ C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\refint\Tactsoft.Co
 C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.pdb
 C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.genruntimeconfig.cache
 C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\ref\Tactsoft.Core.dll
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.deps.json
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.runtimeconfig.json
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.AssemblyReference.cache
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfoInputs.cache
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfo.cs
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.CoreCompileInputs.cache
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\refint\Tactsoft.Core.dll
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.genruntimeconfig.cache
+C:\Users\Santnu\Source\Repos\Project-SDP-Patten\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\ref\Tactsoft.Core.dll

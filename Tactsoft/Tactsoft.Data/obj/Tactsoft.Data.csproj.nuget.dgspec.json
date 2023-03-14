@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Data\\Tactsoft.Data.csproj": {}
+    "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Data\\Tactsoft.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj": {
+    "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj",
         "projectName": "Tactsoft.Core",
-        "projectPath": "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Core\\obj\\",
+        "projectPath": "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj",
+        "packagesPath": "C:\\Users\\Santnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Santnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,21 +94,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Data\\Tactsoft.Data.csproj": {
+    "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Data\\Tactsoft.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Data\\Tactsoft.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Data\\Tactsoft.Data.csproj",
         "projectName": "Tactsoft.Data",
-        "projectPath": "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Data\\Tactsoft.Data.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Data\\obj\\",
+        "projectPath": "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Data\\Tactsoft.Data.csproj",
+        "packagesPath": "C:\\Users\\Santnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Santnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -119,8 +125,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj"
+              "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj": {
+                "projectPath": "C:\\Users\\Santnu\\Source\\Repos\\Project-SDP-Patten\\Tactsoft\\Tactsoft.Core\\Tactsoft.Core.csproj"
               }
             }
           }
@@ -172,7 +178,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
